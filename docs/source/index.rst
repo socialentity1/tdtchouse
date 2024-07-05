@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+TDTC - Thiên Đường Trò Chơi Hàng đầu - Tham Gia Tặng 88K
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`TDTC <https://tdtc.house/>`_ - Thiên Đường Trò Chơi là một trong những cổng game uy tín hàng đầu hiện nay với một loạt các trò chơi đa dạng và phong phú. Với mục đích mang đến trải nghiệm giải trí tuyệt vời nhất cho người chơi, TDTC đã đầu tư mạnh mẽ vào việc cung cấp các tựa game đặc sắc như: tài xỉu, baccarat, blackjack, roulette,... đem lại sự hứng thú và thử thách không ngừng cho người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Ngoài ra, TDTC còn nổi bật với chương trình khuyến mãi hấp dẫn, bao gồm các gói tặng 88K chào mừng dành cho người mới tham gia, các giải thưởng hàng ngày và hàng tuần, cùng với các chương trình thưởng thường xuyên khác như cashback và các sự kiện đặc biệt. Nhờ vào đội ngũ hỗ trợ khách hàng chuyên nghiệp và nhiệt tình, TDTC luôn cam kết mang đến dịch vụ tốt nhất, giúp người chơi cảm thấy an tâm và hài lòng.
 
-.. note::
+Với sự liên tục cập nhật và phát triển, TDTC cam kết mang đến cho người chơi trải nghiệm cá cược hoàn hảo nhất. Hãy đến với TDTC để khám phá và trải nghiệm những điều tuyệt vời nhất trong thế giới game online ngay hôm nay!
 
-   This project is under active development.
+Thông tin liên hệ:
 
-Contents
---------
+Địa chỉ: 124 Nguyễn Thái Bình, Phường 12, Tân Bình, Hồ Chí Minh, Việt Nam. 
 
-.. toctree::
+Phone: 0874495736. 
 
-   usage
-   api
+Email: info@tdtc.house. 
+
+Website: https://tdtc.house/
+
+#tdtc #trangchutdtc #dangkytdtc #nhacaitdtc #linktdtc
